@@ -23,7 +23,7 @@ Welcome to my GitHub! I'm the CEO and Co-Founder of **Kagazless (युगान
 - ✅ Digital Transformation Consulting
 
 ### 🌍 Our Journey
-Started by a team of Nepali engineers with 5+ years of enterprise experience in Australia, we returned home with a mission: bring world-class digital transformation to Nepal.
+Started by a team of Nepali engineers of enterprise experience in Australia, we returned home with a mission: bring world-class digital transformation to Nepal.
 
 ### 📫 Let's Connect
 - 🌐 [kagazless.com](https://www.kagazless.com)
